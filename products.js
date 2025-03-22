@@ -1,4 +1,4 @@
-    {
+[    {
         id: 1,
         name: "Whey Protein Isolate",
         description: "High-quality protein with 27g per serving for muscle recovery and growth.",
@@ -37,3 +37,4 @@
             rating: 4,
             image: "https://images.unsplash.com/photo-1577563908411-5077b6dc7624?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
         }
+]
