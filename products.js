@@ -22,5 +22,13 @@ const PRODUCTS = [
     price: 50,
     image: null,
     rating: 0
+  },
+  {
+    id: 5,
+    name: "Suscipit atque adipi",
+    description: "Architecto quis mini",
+    price: 10,
+    image: "https://raw.githubusercontent.com/Adel-Kazem/subdomain-with-id/main/products_images/elle-leonardo-dicaprio-toast-inception-warner-bros-pictures_1.jpg",
+    rating: 5
   }
 ];
