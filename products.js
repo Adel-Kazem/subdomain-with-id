@@ -14,5 +14,13 @@ const PRODUCTS = [
     price: 29.99,
     rating: 5,
     image: "https://images.unsplash.com/photo-1546483875-ad9014c88eba?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    id: 4,
+    name: "Minima nostrud volup",
+    description: "Sed ab cillum magna",
+    price: 50,
+    image: null,
+    rating: 0
   }
 ];
