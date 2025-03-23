@@ -30,5 +30,5 @@ const PRODUCTS = [
         price: 39,
         rating: 5,
         image: "default.jpg",
-    },
+    }
 ];
