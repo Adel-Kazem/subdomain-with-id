@@ -30,5 +30,13 @@ const PRODUCTS = [
         "price": 39,
         "rating": 5,
         "image": "default.jpg"
+    },
+    {
+        "id": 5,
+        "name": "test 2",
+        "description": "asdfasdf",
+        "price": 22,
+        "rating": 5,
+        "image": "default.jpg"
     }
 ];
